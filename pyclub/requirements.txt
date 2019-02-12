@@ -1,4 +1,4 @@
-auto-discover===.1dev
+
 dj-database-url==0.5.0
 Django==2.1.5
 django-appconf==1.0.2
